@@ -1,4 +1,4 @@
-Watch [demo](https://hansen1992.github.io/HiddenMuseums/) here.
+Watch demo [here.](https://hansen1992.github.io/HiddenMuseums/)
 
 I used [foursquare](https://foursquare.com/) to fetch my location data.
 
