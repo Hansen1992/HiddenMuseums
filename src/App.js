@@ -12,7 +12,7 @@ class App extends Component {
     this.fetchVenues()
   }
 loadMap = () => {
-    loadScript("https://maps.googleapis.com/maps/api/js?AIzaSyCQuQD-gp8vy07mtcRpjAEdBCQwbnl-1Kk&callback=initMap")
+    loadScript("https://maps.googleapis.com/maps/api/js?INSERT_API_HERE&callback=initMap")
     window.initMap = this.initMap
   }
 
