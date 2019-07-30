@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Watch[demo](https://hansen1992.github.io/HiddenMuseums/) here.
+
+I used [foursquare](https://foursquare.com/) to fetch my location data.
+
+If you want to download the application yourself and edit it, you can follow the instructions beneath on how to set it up, on your local computer:
 
 ## Available Scripts
 
